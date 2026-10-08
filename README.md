@@ -6,11 +6,13 @@ Aplikasi kasir (Point of Sale) berbasis web untuk toko kecil, dibangun dengan ba
 
 ## Tampilan
 
-| Login | Produk dan Stok |
-|---|---|
-| ![Login](docs/screenshots/login.png) | ![Produk](docs/screenshots/produk.png) |
+![Kasir](docs/screenshots/kasir.png)
 
-![Laporan](docs/screenshots/laporan.png)
+| Dashboard | Laporan |
+|---|---|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Laporan](docs/screenshots/laporan.png) |
+| **Produk dan Stok** | **Login** |
+| ![Produk](docs/screenshots/produk.png) | ![Login](docs/screenshots/login.png) |
 
 ## Fitur
 - Kasir: keranjang, pembayaran, struk
