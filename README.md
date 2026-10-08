@@ -31,3 +31,11 @@ Ganti kedua password ini segera setelah login pertama.
 
 ## Catatan
 Proyek ini masih dalam pengembangan dan belum memiliki tes otomatis.
+
+## Tampilan
+
+| Login | Produk dan Stok |
+|---|---|
+| ![Login](docs/screenshots/login.png) | ![Produk](docs/screenshots/produk.png) |
+
+![Laporan](docs/screenshots/laporan.png)
