@@ -4,6 +4,14 @@ Aplikasi kasir (Point of Sale) berbasis web untuk toko kecil, dibangun dengan ba
 
 **Teknologi:** Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, Prisma, SQLite, Zustand.
 
+## Tampilan
+
+| Login | Produk dan Stok |
+|---|---|
+| ![Login](docs/screenshots/login.png) | ![Produk](docs/screenshots/produk.png) |
+
+![Laporan](docs/screenshots/laporan.png)
+
 ## Fitur
 - Kasir: keranjang, pembayaran, struk
 - Produk, kategori, stok, stock opname, retur
@@ -32,10 +40,3 @@ Ganti kedua password ini segera setelah login pertama.
 ## Catatan
 Proyek ini masih dalam pengembangan dan belum memiliki tes otomatis.
 
-## Tampilan
-
-| Login | Produk dan Stok |
-|---|---|
-| ![Login](docs/screenshots/login.png) | ![Produk](docs/screenshots/produk.png) |
-
-![Laporan](docs/screenshots/laporan.png)
